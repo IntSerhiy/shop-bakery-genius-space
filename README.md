@@ -30,7 +30,7 @@ No special software is required other than a modern web browser.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/bakery-website.git
+   git clone https://github.com/IntSerhiy/shop-bakery-genius-space
    ```
 2. Navigate to the project directory:
    ```bash
@@ -64,11 +64,3 @@ project-root
    git push origin feature-name
    ```
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-
-For any questions or feedback, please contact [Your Name] at [your-email@example.com].
